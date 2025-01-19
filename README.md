@@ -1,4 +1,4 @@
-<h3 align="left" style="font-family: 'Zeordia', sans-serif; font-size: 24px; letter-spacing: 3px; color: #4CAF50;">Hello, I am Mohammad Tofik</h3>
+<h4 align="left">Hello, I am Mohammad Tofik</h4>
 
 <h6>Software Engineer at Western Digital, Bengaluru, India </h6>
 
