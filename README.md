@@ -1,6 +1,6 @@
-<h4 align="left">Hello, I am Mohammad Tofik</h4>
+<h2 align="left">Hello, I am Mohammad Tofik</h2>
 
-<h6>Software Engineer at Western Digital, Bengaluru, India </h6>
+<h4>Software Engineer at Western Digital, Bengaluru, India </h4>
 
 ###
 
